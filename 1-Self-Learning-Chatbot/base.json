@@ -1,429 +1,448 @@
 {
-    "question": [
-      {
-        "question": "Do you want to go to the mall?",
-        "answer": "Sure, I'd love to!"
-      },
-      {
-        "question": "Can I borrow your phone charger?",
-        "answer": "Of course, here you go."
-      },
-      {
-        "question": "What's your favorite subject in school?",
-        "answer": "I really enjoy [insert subject]. How about you?"
-      },
-      {
-        "question": "Are you going to the party on Friday?",
-        "answer": "Yes, I can't wait!"
-      },
-      {
-        "question": "Do you believe in ghosts?",
-        "answer": "I'm not sure, what do you think?"
-      },
-      {
-        "question": "What's the coolest thing you've ever done?",
-        "answer": "Probably [insert experience]. What about you?"
-      },
-      {
-        "question": "Have you ever traveled to another country?",
-        "answer": "Yes, I went to [insert country]. It was amazing!"
-      },
-      {
-        "question": "Do you have any pets?",
-        "answer": "Yes, I have a [insert pet]."
-      },
-      {
-        "question": "What's the scariest movie you've ever seen?",
-        "answer": "I think [insert movie title] was pretty scary!"
-      },
-      {
-        "question": "Do you prefer reading books or watching movies?",
-        "answer": "I like both, but I think I prefer [reading/watching] [insert preference]."
-      },
-      {
-        "question": "What's your favorite food?",
-        "answer": "I love [insert favorite food]! How about you?"
-      },
-      {
-        "question": "Are you excited for the school dance?",
-        "answer": "Yes, I've been looking forward to it for weeks!"
-      },
-      {
-        "question": "Do you play any sports?",
-        "answer": "Yes, I play [insert sport]. It's a lot of fun!"
-      },
-      {
-        "question": "What's your dream vacation destination?",
-        "answer": "I would love to visit [insert destination]. It looks amazing!"
-      },
-      {
-        "question": "Are you afraid of heights?",
-        "answer": "A little bit, but I still enjoy [insert activity]."
-      },
-      {
-        "question": "Do you have any siblings?",
-        "answer": "Yes, I have [insert number] siblings."
-      },
-      {
-        "question": "What's your favorite video game?",
-        "answer": "I really enjoy playing [insert video game]. It's so much fun!"
-      },
-      {
-        "question": "Do you believe in aliens?",
-        "answer": "I'm not sure, but it's fun to imagine!"
-      },
-      {
-        "question": "What's the best concert you've ever been to?",
-        "answer": "I think [insert concert] was amazing!"
-      },
-      {
-        "question": "Do you have any plans for the weekend?",
-        "answer": "Not yet, but I'm hoping to [insert plan]."
-      },
-      {
-        "question": "What's your favorite thing to do in your free time?",
-        "answer": "I really enjoy [insert activity]. It helps me relax."
-      },
-      {
-        "question": "Are you good at math?",
-        "answer": "I'm okay at math, but I prefer [insert subject]."
-      },
-      {
-        "question": "Do you like roller coasters?",
-        "answer": "Yes, I love the thrill of going on roller coasters!"
-      },
-      {
-        "question": "What's the last movie you watched?",
-        "answer": "I watched [insert movie title] last night. It was really good!"
-      },
-      {
-        "question": "Are you a morning person or a night owl?",
-        "answer": "I'm definitely more of a [morning person/night owl]."
-      },
-      {
-        "question": "What's your favorite season?",
-        "answer": "I love [insert season] because of [insert reason]."
-      },
-      {
-        "question": "Do you have any allergies?",
-        "answer": "Yes, I'm allergic to [insert allergen]."
-      },
-      {
-        "question": "What's the longest you've ever stayed up?",
-        "answer": "I think I stayed up until [insert time] once. It was crazy!"
-      },
-      {
-        "question": "Are you good at cooking?",
-        "answer": "I'm still learning, but I can make a mean [insert dish]."
-      },
-      {
-        "question": "What's your favorite holiday?",
-        "answer": "I love [insert holiday] because of [insert reason]."
-      },
-      {
-        "question": "Do you believe in love at first sight?",
-        "answer": "I think it's possible, but it's also important to get to know someone."
-      },
-      {
-        "question": "What's the worst job you've ever had?",
-        "answer": "I worked as a [insert job] once, and it was terrible!"
-      },
-      {
-        "question": "Are you a cat person or a dog person?",
-        "answer": "I love both, but I think I'm more of a [cat person/dog person]."
-      },
-      {
-        "question": "What's your favorite thing about yourself?",
-        "answer": "I think my favorite thing about myself is [insert trait]."
-      },
-      {
-        "question": "Do you have any phobias?",
-        "answer": "Yes, I'm afraid of [insert phobia]."
-      },
-      {
-        "question": "What's your favorite board game?",
-        "answer": "I really enjoy playing [insert board game]. It's so much fun!"
-      },
-      {
-        "question": "Do you have any regrets?",
-        "answer": "I try not to dwell on the past, but there are definitely things I wish I had done differently."
-      },
-      {
-        "question": "What's your favorite type of music?",
-        "answer": "I love listening to [insert genre]. It always puts me in a good mood!"
-      },
-      {
-        "question": "Do you prefer texting or calling?",
-        "answer": "I prefer texting because it's more convenient."
-      },
-      {
-        "question": "What's the best advice you've ever received?",
-        "answer": "The best advice I've ever received is [insert advice]."
-      },
-      {
-        "question": "Are you a good dancer?",
-        "answer": "I'm not the best dancer, but I still love to dance!"
-      },
-      {
-        "question": "What's your favorite thing to do with your friends?",
-        "answer": "I love [insert activity] with my friends. We always have a great time!"
-      },
-      {
-        "question": "Do you have any goals for the future?",
-        "answer": "Yes, I hope to [insert goal] someday."
-      },
-      {
-        "question": "What's the craziest thing you've ever done?",
-        "answer": "I think the craziest thing I've ever done is [insert experience]."
-      },
-      {
-        "question": "Do you believe in fate?",
-        "answer": "I'm not sure, but I think everything happens for a reason."
-      },
-      {
-        "question": "What's your favorite type of dessert?",
-        "answer": "I love [insert dessert]. It's so delicious!"
-      },
-      {
-        "question": "Are you a good swimmer?",
-        "answer": "Yes, I'm a pretty good swimmer. I love spending time in the pool!"
-      },
-      {
-        "question": "What's your biggest fear?",
-        "answer": "My biggest fear is [insert fear]."
-      },
-      {
-        "question": "Do you have any hobbies?",
-        "answer": "Yes, I enjoy [insert hobby]. It helps me relax and unwind."
-      },
-      {
-        "question": "What's the best gift you've ever received?",
-        "answer": "The best gift I've ever received is [insert gift]."
-      },
-      {
-        "question": "Do you believe in second chances?",
-        "answer": "Yes, I think everyone deserves a second chance."
-      },
-      {
-        "question": "What's your favorite TV show?",
-        "answer": "I really enjoy watching [insert TV show]. It's so entertaining!"
-      },
-      {
-        "question": "Are you afraid of the dark?",
-        "answer": "Sometimes, but I try not to let it bother me."
-      },
-      {
-        "question": "What's your favorite type of movie?",
-        "answer": "I love [insert genre] movies. They always keep me on the edge of my seat!"
-      },
-      {
-        "question": "Do you believe in karma?",
-        "answer": "Yes, I think what goes around comes around."
-      },
-      {
-        "question": "What's your favorite thing to do on a rainy day?",
-        "answer": "I love staying inside and [insert activity]. It's so cozy!"
-      },
-      {
-        "question": "Do you have any role models?",
-        "answer": "Yes, my role model is [insert role model]. They inspire me to be the best version of myself."
-      },
-      {
-        "question": "What's the most embarrassing thing that's ever happened to you?",
-        "answer": "I think the most embarrassing thing that's ever happened to me is [insert experience]."
-      },
-      {
-        "question": "Do you like spicy food?",
-        "answer": "Yes, I love spicy food! The spicier, the better!"
-      },
-      {
-        "question": "What's your favorite thing about summer?",
-        "answer": "I love [insert favorite summer activity]. It's so much fun!"
-      },
-      {
-        "question": "Do you have any nicknames?",
-        "answer": "Yes, my friends call me [insert nickname]."
-      },
-      {
-        "question": "What's your favorite type of candy?",
-        "answer": "I love [insert candy]. It's so sweet and delicious!"
-      },
-      {
-        "question": "Are you good at art?",
-        "answer": "I'm not the best artist, but I enjoy being creative."
-      },
-      {
-        "question": "What's your favorite thing to do at the beach?",
-        "answer": "I love swimming and building sandcastles!"
-      },
-      {
-        "question": "Do you believe in soulmates?",
-        "answer": "I'm not sure, but I think there's someone out there for everyone."
-      },
-      {
-        "question": "What's the best book you've ever read?",
-        "answer": "I think the best book I've ever read is [insert book title]. It's so captivating!"
-      },
-      {
-        "question": "Do you like camping?",
-        "answer": "Yes, I love spending time outdoors and roasting marshmallows over the campfire!"
-      },
-      {
-        "question": "What's your favorite memory?",
-        "answer": "I have so many favorite memories, but one of my favorites is [insert memory]."
-      },
-      {
-        "question": "Are you a good cook?",
-        "answer": "I'm still learning, but I can make a mean [insert dish]."
-      },
-      {
-        "question": "What's your favorite thing to do with your family?",
-        "answer": "I love [insert family activity]. It's always so much fun!"
-      },
-      {
-        "question": "Do you believe in magic?",
-        "answer": "I'm not sure, but it's fun to imagine!"
-      },
-      {
-        "question": "What's your favorite thing about winter?",
-        "answer": "I love [insert favorite winter activity]. It's so magical!"
-      },
-      {
-        "question": "Do you like to dance?",
-        "answer": "Yes, I love dancing! It's so much fun!"
-      },
-      {
-        "question": "What's the best concert you've ever been to?",
-        "answer": "I think the best concert I've ever been to is [insert concert]. It was amazing!"
-      },
-      {
-        "question": "Do you like spicy food?",
-        "answer": "Yes, I love spicy food! The spicier, the better!"
-      },
-      {
-        "question": "What's your favorite thing about summer?",
-        "answer": "I love [insert favorite summer activity]. It's so much fun!"
-      },
-      {
-        "question": "Do you have any nicknames?",
-        "answer": "Yes, my friends call me [insert nickname]."
-      },
-      {
-        "question": "What's your favorite type of candy?",
-        "answer": "I love [insert candy]. It's so sweet and delicious!"
-      },
-      {
-        "question": "Are you good at art?",
-        "answer": "I'm not the best artist, but I enjoy being creative."
-      },
-      {
-        "question": "What's your favorite thing to do at the beach?",
-        "answer": "I love swimming and building sandcastles!"
-      },
-      {
-        "question": "Do you believe in soulmates?",
-        "answer": "I'm not sure, but I think there's someone out there for everyone."
-      },
-      {
-        "question": "What's the best book you've ever read?",
-        "answer": "I think the best book I've ever read is [insert book title]. It's so captivating!"
-      },
-      {
-        "question": "Do you like camping?",
-        "answer": "Yes, I love spending time outdoors and roasting marshmallows over the campfire!"
-      },
-      {
-        "question": "What's your favorite memory?",
-        "answer": "I have so many favorite memories, but one of my favorites is [insert memory]."
-      },
-      {
-        "question": "Are you a good cook?",
-        "answer": "I'm still learning, but I can make a mean [insert dish]."
-      },
-      {
-        "question": "What's your favorite thing to do with your family?",
-        "answer": "I love [insert family activity]. It's always so much fun!"
-      },
-      {
-        "question": "Do you believe in magic?",
-        "answer": "I'm not sure, but it's fun to imagine!"
-      },
-      {
-        "question": "What's your favorite thing about winter?",
-        "answer": "I love [insert favorite winter activity]. It's so magical!"
-      },
-      {
-        "question": "Do you like to dance?",
-        "answer": "Yes, I love dancing! It's so much fun!"
-      },
-      {
-        "question": "What's the best concert you've ever been to?",
-        "answer": "I think the best concert I've ever been to is [insert concert]. It was amazing!"
-      },
-      {
-        "question": "Do you like spicy food?",
-        "answer": "Yes, I love spicy food! The spicier, the better!"
-      },
-      {
-        "question": "What's your favorite thing about summer?",
-        "answer": "I love [insert favorite summer activity]. It's so much fun!"
-      },
-      {
-        "question": "Do you have any nicknames?",
-        "answer": "Yes, my friends call me [insert nickname]."
-      },
-      {
-        "question": "What's your favorite type of candy?",
-        "answer": "I love [insert candy]. It's so sweet and delicious!"
-      },
-      {
-        "question": "Are you good at art?",
-        "answer": "I'm not the best artist, but I enjoy being creative."
-      },
-      {
-        "question": "What's your favorite thing to do at the beach?",
-        "answer": "I love swimming and building sandcastles!"
-      },
-      {
-        "question": "Do you believe in soulmates?",
-        "answer": "I'm not sure, but I think there's someone out there for everyone."
-      },
-      {
-        "question": "What's the best book you've ever read?",
-        "answer": "I think the best book I've ever read is [insert book title]. It's so captivating!"
-      },
-      {
-        "question": "Do you like camping?",
-        "answer": "Yes, I love spending time outdoors and roasting marshmallows over the campfire!"
-      },
-      {
-        "question": "What's your favorite memory?",
-        "answer": "I have so many favorite memories, but one of my favorites is [insert memory]."
-      },
-      {
-        "question": "Are you a good cook?",
-        "answer": "I'm still learning, but I can make a mean [insert dish]."
-      },
-      {
-        "question": "What's your favorite thing to do with your family?",
-        "answer": "I love [insert family activity]. It's always so much fun!"
-      },
-      {
-        "question": "Do you believe in magic?",
-        "answer": "I'm not sure, but it's fun to imagine!"
-      },
-      {
-        "question": "What's your favorite thing about winter?",
-        "answer": "I love [insert favorite winter activity]. It's so magical!"
-      },
-      {
-        "question": "Do you like to dance?",
-        "answer": "Yes, I love dancing! It's so much fun!"
-      },
-      {
-        "question": "What's the best concert you've ever been to?",
-        "answer": "I think the best concert I've ever been to is [insert concert]. It was amazing!"
-      }
-    ]
-  }
-  
+  "question": [
+    {
+      "question": "Do you want to go to the mall?",
+      "answer": "Sure, I'd love to!"
+    },
+    {
+      "question": "Can I borrow your phone charger?",
+      "answer": "Of course, here you go."
+    },
+    {
+      "question": "What's your favorite subject in school?",
+      "answer": "I really enjoy [insert subject]. How about you?"
+    },
+    {
+      "question": "Are you going to the party on Friday?",
+      "answer": "Yes, I can't wait!"
+    },
+    {
+      "question": "Do you believe in ghosts?",
+      "answer": "I'm not sure, what do you think?"
+    },
+    {
+      "question": "What's the coolest thing you've ever done?",
+      "answer": "Probably [insert experience]. What about you?"
+    },
+    {
+      "question": "Have you ever traveled to another country?",
+      "answer": "Yes, I went to [insert country]. It was amazing!"
+    },
+    {
+      "question": "Do you have any pets?",
+      "answer": "Yes, I have a [insert pet]."
+    },
+    {
+      "question": "What's the scariest movie you've ever seen?",
+      "answer": "I think [insert movie title] was pretty scary!"
+    },
+    {
+      "question": "Do you prefer reading books or watching movies?",
+      "answer": "I like both, but I think I prefer [reading/watching] [insert preference]."
+    },
+    {
+      "question": "What's your favorite food?",
+      "answer": "I love [insert favorite food]! How about you?"
+    },
+    {
+      "question": "Are you excited for the school dance?",
+      "answer": "Yes, I've been looking forward to it for weeks!"
+    },
+    {
+      "question": "Do you play any sports?",
+      "answer": "Yes, I play [insert sport]. It's a lot of fun!"
+    },
+    {
+      "question": "What's your dream vacation destination?",
+      "answer": "I would love to visit [insert destination]. It looks amazing!"
+    },
+    {
+      "question": "Are you afraid of heights?",
+      "answer": "A little bit, but I still enjoy [insert activity]."
+    },
+    {
+      "question": "Do you have any siblings?",
+      "answer": "Yes, I have [insert number] siblings."
+    },
+    {
+      "question": "What's your favorite video game?",
+      "answer": "I really enjoy playing [insert video game]. It's so much fun!"
+    },
+    {
+      "question": "Do you believe in aliens?",
+      "answer": "I'm not sure, but it's fun to imagine!"
+    },
+    {
+      "question": "What's the best concert you've ever been to?",
+      "answer": "I think [insert concert] was amazing!"
+    },
+    {
+      "question": "Do you have any plans for the weekend?",
+      "answer": "Not yet, but I'm hoping to [insert plan]."
+    },
+    {
+      "question": "What's your favorite thing to do in your free time?",
+      "answer": "I really enjoy [insert activity]. It helps me relax."
+    },
+    {
+      "question": "Are you good at math?",
+      "answer": "I'm okay at math, but I prefer [insert subject]."
+    },
+    {
+      "question": "Do you like roller coasters?",
+      "answer": "Yes, I love the thrill of going on roller coasters!"
+    },
+    {
+      "question": "What's the last movie you watched?",
+      "answer": "I watched [insert movie title] last night. It was really good!"
+    },
+    {
+      "question": "Are you a morning person or a night owl?",
+      "answer": "I'm definitely more of a [morning person/night owl]."
+    },
+    {
+      "question": "What's your favorite season?",
+      "answer": "I love [insert season] because of [insert reason]."
+    },
+    {
+      "question": "Do you have any allergies?",
+      "answer": "Yes, I'm allergic to [insert allergen]."
+    },
+    {
+      "question": "What's the longest you've ever stayed up?",
+      "answer": "I think I stayed up until [insert time] once. It was crazy!"
+    },
+    {
+      "question": "Are you good at cooking?",
+      "answer": "I'm still learning, but I can make a mean [insert dish]."
+    },
+    {
+      "question": "What's your favorite holiday?",
+      "answer": "I love [insert holiday] because of [insert reason]."
+    },
+    {
+      "question": "Do you believe in love at first sight?",
+      "answer": "I think it's possible, but it's also important to get to know someone."
+    },
+    {
+      "question": "What's the worst job you've ever had?",
+      "answer": "I worked as a [insert job] once, and it was terrible!"
+    },
+    {
+      "question": "Are you a cat person or a dog person?",
+      "answer": "I love both, but I think I'm more of a [cat person/dog person]."
+    },
+    {
+      "question": "What's your favorite thing about yourself?",
+      "answer": "I think my favorite thing about myself is [insert trait]."
+    },
+    {
+      "question": "Do you have any phobias?",
+      "answer": "Yes, I'm afraid of [insert phobia]."
+    },
+    {
+      "question": "What's your favorite board game?",
+      "answer": "I really enjoy playing [insert board game]. It's so much fun!"
+    },
+    {
+      "question": "Do you have any regrets?",
+      "answer": "I try not to dwell on the past, but there are definitely things I wish I had done differently."
+    },
+    {
+      "question": "What's your favorite type of music?",
+      "answer": "I love listening to [insert genre]. It always puts me in a good mood!"
+    },
+    {
+      "question": "Do you prefer texting or calling?",
+      "answer": "I prefer texting because it's more convenient."
+    },
+    {
+      "question": "What's the best advice you've ever received?",
+      "answer": "The best advice I've ever received is [insert advice]."
+    },
+    {
+      "question": "Are you a good dancer?",
+      "answer": "I'm not the best dancer, but I still love to dance!"
+    },
+    {
+      "question": "What's your favorite thing to do with your friends?",
+      "answer": "I love [insert activity] with my friends. We always have a great time!"
+    },
+    {
+      "question": "Do you have any goals for the future?",
+      "answer": "Yes, I hope to [insert goal] someday."
+    },
+    {
+      "question": "What's the craziest thing you've ever done?",
+      "answer": "I think the craziest thing I've ever done is [insert experience]."
+    },
+    {
+      "question": "Do you believe in fate?",
+      "answer": "I'm not sure, but I think everything happens for a reason."
+    },
+    {
+      "question": "What's your favorite type of dessert?",
+      "answer": "I love [insert dessert]. It's so delicious!"
+    },
+    {
+      "question": "Are you a good swimmer?",
+      "answer": "Yes, I'm a pretty good swimmer. I love spending time in the pool!"
+    },
+    {
+      "question": "What's your biggest fear?",
+      "answer": "My biggest fear is [insert fear]."
+    },
+    {
+      "question": "Do you have any hobbies?",
+      "answer": "Yes, I enjoy [insert hobby]. It helps me relax and unwind."
+    },
+    {
+      "question": "What's the best gift you've ever received?",
+      "answer": "The best gift I've ever received is [insert gift]."
+    },
+    {
+      "question": "Do you believe in second chances?",
+      "answer": "Yes, I think everyone deserves a second chance."
+    },
+    {
+      "question": "What's your favorite TV show?",
+      "answer": "I really enjoy watching [insert TV show]. It's so entertaining!"
+    },
+    {
+      "question": "Are you afraid of the dark?",
+      "answer": "Sometimes, but I try not to let it bother me."
+    },
+    {
+      "question": "What's your favorite type of movie?",
+      "answer": "I love [insert genre] movies. They always keep me on the edge of my seat!"
+    },
+    {
+      "question": "Do you believe in karma?",
+      "answer": "Yes, I think what goes around comes around."
+    },
+    {
+      "question": "What's your favorite thing to do on a rainy day?",
+      "answer": "I love staying inside and [insert activity]. It's so cozy!"
+    },
+    {
+      "question": "Do you have any role models?",
+      "answer": "Yes, my role model is [insert role model]. They inspire me to be the best version of myself."
+    },
+    {
+      "question": "What's the most embarrassing thing that's ever happened to you?",
+      "answer": "I think the most embarrassing thing that's ever happened to me is [insert experience]."
+    },
+    {
+      "question": "Do you like spicy food?",
+      "answer": "Yes, I love spicy food! The spicier, the better!"
+    },
+    {
+      "question": "What's your favorite thing about summer?",
+      "answer": "I love [insert favorite summer activity]. It's so much fun!"
+    },
+    {
+      "question": "Do you have any nicknames?",
+      "answer": "Yes, my friends call me [insert nickname]."
+    },
+    {
+      "question": "What's your favorite type of candy?",
+      "answer": "I love [insert candy]. It's so sweet and delicious!"
+    },
+    {
+      "question": "Are you good at art?",
+      "answer": "I'm not the best artist, but I enjoy being creative."
+    },
+    {
+      "question": "What's your favorite thing to do at the beach?",
+      "answer": "I love swimming and building sandcastles!"
+    },
+    {
+      "question": "Do you believe in soulmates?",
+      "answer": "I'm not sure, but I think there's someone out there for everyone."
+    },
+    {
+      "question": "What's the best book you've ever read?",
+      "answer": "I think the best book I've ever read is [insert book title]. It's so captivating!"
+    },
+    {
+      "question": "Do you like camping?",
+      "answer": "Yes, I love spending time outdoors and roasting marshmallows over the campfire!"
+    },
+    {
+      "question": "What's your favorite memory?",
+      "answer": "I have so many favorite memories, but one of my favorites is [insert memory]."
+    },
+    {
+      "question": "Are you a good cook?",
+      "answer": "I'm still learning, but I can make a mean [insert dish]."
+    },
+    {
+      "question": "What's your favorite thing to do with your family?",
+      "answer": "I love [insert family activity]. It's always so much fun!"
+    },
+    {
+      "question": "Do you believe in magic?",
+      "answer": "I'm not sure, but it's fun to imagine!"
+    },
+    {
+      "question": "What's your favorite thing about winter?",
+      "answer": "I love [insert favorite winter activity]. It's so magical!"
+    },
+    {
+      "question": "Do you like to dance?",
+      "answer": "Yes, I love dancing! It's so much fun!"
+    },
+    {
+      "question": "What's the best concert you've ever been to?",
+      "answer": "I think the best concert I've ever been to is [insert concert]. It was amazing!"
+    },
+    {
+      "question": "Do you like spicy food?",
+      "answer": "Yes, I love spicy food! The spicier, the better!"
+    },
+    {
+      "question": "What's your favorite thing about summer?",
+      "answer": "I love [insert favorite summer activity]. It's so much fun!"
+    },
+    {
+      "question": "Do you have any nicknames?",
+      "answer": "Yes, my friends call me [insert nickname]."
+    },
+    {
+      "question": "What's your favorite type of candy?",
+      "answer": "I love [insert candy]. It's so sweet and delicious!"
+    },
+    {
+      "question": "Are you good at art?",
+      "answer": "I'm not the best artist, but I enjoy being creative."
+    },
+    {
+      "question": "What's your favorite thing to do at the beach?",
+      "answer": "I love swimming and building sandcastles!"
+    },
+    {
+      "question": "Do you believe in soulmates?",
+      "answer": "I'm not sure, but I think there's someone out there for everyone."
+    },
+    {
+      "question": "What's the best book you've ever read?",
+      "answer": "I think the best book I've ever read is [insert book title]. It's so captivating!"
+    },
+    {
+      "question": "Do you like camping?",
+      "answer": "Yes, I love spending time outdoors and roasting marshmallows over the campfire!"
+    },
+    {
+      "question": "What's your favorite memory?",
+      "answer": "I have so many favorite memories, but one of my favorites is [insert memory]."
+    },
+    {
+      "question": "Are you a good cook?",
+      "answer": "I'm still learning, but I can make a mean [insert dish]."
+    },
+    {
+      "question": "What's your favorite thing to do with your family?",
+      "answer": "I love [insert family activity]. It's always so much fun!"
+    },
+    {
+      "question": "Do you believe in magic?",
+      "answer": "I'm not sure, but it's fun to imagine!"
+    },
+    {
+      "question": "What's your favorite thing about winter?",
+      "answer": "I love [insert favorite winter activity]. It's so magical!"
+    },
+    {
+      "question": "Do you like to dance?",
+      "answer": "Yes, I love dancing! It's so much fun!"
+    },
+    {
+      "question": "What's the best concert you've ever been to?",
+      "answer": "I think the best concert I've ever been to is [insert concert]. It was amazing!"
+    },
+    {
+      "question": "Do you like spicy food?",
+      "answer": "Yes, I love spicy food! The spicier, the better!"
+    },
+    {
+      "question": "What's your favorite thing about summer?",
+      "answer": "I love [insert favorite summer activity]. It's so much fun!"
+    },
+    {
+      "question": "Do you have any nicknames?",
+      "answer": "Yes, my friends call me [insert nickname]."
+    },
+    {
+      "question": "What's your favorite type of candy?",
+      "answer": "I love [insert candy]. It's so sweet and delicious!"
+    },
+    {
+      "question": "Are you good at art?",
+      "answer": "I'm not the best artist, but I enjoy being creative."
+    },
+    {
+      "question": "What's your favorite thing to do at the beach?",
+      "answer": "I love swimming and building sandcastles!"
+    },
+    {
+      "question": "Do you believe in soulmates?",
+      "answer": "I'm not sure, but I think there's someone out there for everyone."
+    },
+    {
+      "question": "What's the best book you've ever read?",
+      "answer": "I think the best book I've ever read is [insert book title]. It's so captivating!"
+    },
+    {
+      "question": "Do you like camping?",
+      "answer": "Yes, I love spending time outdoors and roasting marshmallows over the campfire!"
+    },
+    {
+      "question": "What's your favorite memory?",
+      "answer": "I have so many favorite memories, but one of my favorites is [insert memory]."
+    },
+    {
+      "question": "Are you a good cook?",
+      "answer": "I'm still learning, but I can make a mean [insert dish]."
+    },
+    {
+      "question": "What's your favorite thing to do with your family?",
+      "answer": "I love [insert family activity]. It's always so much fun!"
+    },
+    {
+      "question": "Do you believe in magic?",
+      "answer": "I'm not sure, but it's fun to imagine!"
+    },
+    {
+      "question": "What's your favorite thing about winter?",
+      "answer": "I love [insert favorite winter activity]. It's so magical!"
+    },
+    {
+      "question": "Do you like to dance?",
+      "answer": "Yes, I love dancing! It's so much fun!"
+    },
+    {
+      "question": "What's the best concert you've ever been to?",
+      "answer": "I think the best concert I've ever been to is [insert concert]. It was amazing!"
+    },
+    {
+      "question": "Hi",
+      "answer": "How are you"
+    },
+    {
+      "question": "what movies you like",
+      "answer": " I like action movies"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "where is india",
+      "answer": "india is in asia"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    }
+  ]
+}
