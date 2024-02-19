@@ -15,7 +15,7 @@ def save_knowledge_base(file_path :str , data:dict):
 
 
 def find_best_match(user_question: str , question :list[str]) -> str | None :
-    matches: list = get_close_matches(user_question  , question , n=1, cutoff = 0.6)
+    matches: list = get_close_matches(user_question  , question , n=1, cutoff = 0.9)
     return matches[0] if matches else None
 #finding best matches base on out knowledge base
 
@@ -25,7 +25,6 @@ def get_answer_for_question(question: str , base : dict) -> str | None:
         if q["question"] == question :
             return q["answer"]
 #we get our answer here
-
 
 def chat():
     knowledge_base: dict = load_knowledge_base('base.json')
