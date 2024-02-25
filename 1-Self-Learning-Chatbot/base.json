@@ -443,6 +443,14 @@
     {
       "question": "hello",
       "answer": "hi"
+    },
+    {
+      "question": "How old are You?",
+      "answer": "I am 1 Year Old."
+    },
+    {
+      "question": "We live on which Planet?",
+      "answer": "We live on Earth."
     }
   ]
 }
